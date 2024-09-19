@@ -5,7 +5,7 @@
 }
 
 .container{
-    background: darkgray;
+    background: #a9a9a9;
     min-height: 100vh;/* é mais responsivo vh do que px */
 }
 
